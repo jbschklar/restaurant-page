@@ -1,0 +1,12 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	color: whitesmoke;
+	height: 40vh;
+	width: 100%;
+	/* background-color: blue; */
+	background: url("./korean-bbq-banner.jpg");
+}
