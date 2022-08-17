@@ -6,33 +6,47 @@
 header {
 	font-size: 2rem;
 	display: flex;
+	flex-direction: column;
 	align-items: center;
-	justify-content: center;
+	/* justify-content: center; */
+	/* gap: 20px */
 	color: whitesmoke;
 	height: 25vh;
 	width: 100%;
 	background-color: rgb(112, 17, 10);
 }
 
+.tabs ul {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 30px;
+	list-style: none;
+}
+
+/* .tabs input[type="radio"] {
+	display: none;
+} */
+
 body {
 	background: url("./korean-bbq-banner.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100%;
-	/* display: flex;
+	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	align-items: center; */
+	align-items: center;
 }
 
 #container {
 	background-color: beige;
-	position: absolute;
+	/* position: absolute;
 	top: 58%;
 	left: 50%;
-	transform: translate(-50%, -50%);
+	transform: translate(-50%, -25%); */
 	width: 40vw;
-	height: 75vh;
+	height: fit-content;
 }
 
 .content {
@@ -50,4 +64,17 @@ body {
 
 .content p {
 	margin: 30px;
+}
+
+li {
+	display: flex;
+	align-items: center;
+	gap: 15px;
+	list-style: none;
+	margin-bottom: 15px;
+}
+
+.menu-img {
+	height: 80px;
+	width: auto;
 }
