@@ -1,3 +1,4 @@
+//importing images
 import Chamiseul from "./images/Cham-E-Seul.jpeg";
 import Chumchurum from "./images/chumchurum.jpeg";
 import Makkoli from "./images/makkoli.jpeg";

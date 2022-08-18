@@ -12,7 +12,7 @@ const tabs = document.querySelectorAll(".tabs");
 // load homepage initially
 pageLoad(homePage());
 
-// eventlisteners for tabs
+// eventlisteners for tabs to load content from each page module
 tabs.forEach((tab) => {
 	tab.addEventListener("click", (e) => {
 		const tab = e.target;
