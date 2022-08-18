@@ -16,7 +16,7 @@
   \*************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ./korean-bbq-banner.jpg */ \"./src/korean-bbq-banner.jpg\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"* {\\n\\tpadding: 0;\\n\\tmargin: 0;\\n}\\n\\nheader {\\n\\tfont-size: 2rem;\\n\\tdisplay: flex;\\n\\tflex-direction: column;\\n\\talign-items: center;\\n\\t/* justify-content: center; */\\n\\t/* gap: 20px */\\n\\tcolor: whitesmoke;\\n\\theight: 25vh;\\n\\twidth: 100%;\\n\\tbackground-color: rgb(112, 17, 10);\\n}\\n\\n.tabs ul {\\n\\tdisplay: flex;\\n\\tjustify-content: space-between;\\n\\talign-items: center;\\n\\tgap: 30px;\\n\\tlist-style: none;\\n}\\n\\n/* .tabs input[type=\\\"radio\\\"] {\\n\\tdisplay: none;\\n} */\\n\\nbody {\\n\\tbackground: url(\" + ___CSS_LOADER_URL_REPLACEMENT_0___ + \");\\n\\tbackground-size: cover;\\n\\tbackground-repeat: no-repeat;\\n\\theight: 100%;\\n\\tdisplay: flex;\\n\\tflex-direction: column;\\n\\tjustify-content: center;\\n\\talign-items: center;\\n}\\n\\n#container {\\n\\tbackground-color: beige;\\n\\t/* position: absolute;\\n\\ttop: 58%;\\n\\tleft: 50%;\\n\\ttransform: translate(-50%, -25%); */\\n\\twidth: 40vw;\\n\\theight: fit-content;\\n}\\n\\n.content {\\n\\tpadding: 30px;\\n\\tdisplay: flex;\\n\\tflex-direction: column;\\n\\talign-items: center;\\n\\tjustify-content: center;\\n\\tline-height: 1.5rem;\\n}\\n\\n.content h3 {\\n\\tmargin-bottom: 30px;\\n}\\n\\n.content p {\\n\\tmargin: 30px;\\n}\\n\\nli {\\n\\tdisplay: flex;\\n\\talign-items: center;\\n\\tgap: 15px;\\n\\tlist-style: none;\\n\\tmargin-bottom: 15px;\\n}\\n\\n.menu-img {\\n\\theight: 80px;\\n\\twidth: auto;\\n}\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://restaurant-page/./src/style.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ./korean-bbq-banner.jpg */ \"./src/korean-bbq-banner.jpg\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"* {\\n\\tpadding: 0;\\n\\tmargin: 0;\\n}\\n\\nheader {\\n\\tfont-size: 2rem;\\n\\tdisplay: flex;\\n\\tflex-direction: column;\\n\\talign-items: center;\\n\\t/* justify-content: center; */\\n\\t/* gap: 20px */\\n\\tcolor: whitesmoke;\\n\\theight: 25vh;\\n\\twidth: 100%;\\n\\tbackground-color: rgb(112, 17, 10);\\n}\\n\\n.tabs ul {\\n\\tdisplay: flex;\\n\\tjustify-content: space-between;\\n\\talign-items: center;\\n\\tgap: 30px;\\n\\tlist-style: none;\\n}\\n\\n/* .tabs input[type=\\\"radio\\\"] {\\n\\tdisplay: none;\\n} */\\n\\nbody {\\n\\tbackground: url(\" + ___CSS_LOADER_URL_REPLACEMENT_0___ + \");\\n\\tbackground-size: cover;\\n\\tbackground-repeat: no-repeat;\\n\\theight: 100%;\\n\\tdisplay: flex;\\n\\tflex-direction: column;\\n\\tjustify-content: center;\\n\\talign-items: center;\\n}\\n\\n#container {\\n\\tbackground-color: beige;\\n\\t/* position: absolute;\\n\\ttop: 58%;\\n\\tleft: 50%;\\n\\ttransform: translate(-50%, -25%); */\\n\\twidth: 40vw;\\n\\theight: fit-content;\\n}\\n\\n.content {\\n\\tpadding: 30px;\\n\\tdisplay: flex;\\n\\tflex-direction: column;\\n\\talign-items: center;\\n\\tjustify-content: center;\\n\\tline-height: 1.5rem;\\n}\\n\\n.content h3 {\\n\\tmargin-bottom: 30px;\\n}\\n\\n.content p {\\n\\tmargin: 30px;\\n}\\n\\nh3 {\\n\\tfont-size: 2rem;\\n}\\n\\nul {\\n\\talign-self: flex-start;\\n}\\n\\nli {\\n\\tdisplay: flex;\\n\\talign-items: center;\\n\\t/* gap: 30px; */\\n\\tlist-style: none;\\n\\tmargin-bottom: 15px;\\n}\\n\\n.menu-img {\\n\\theight: 80px;\\n\\twidth: 80px;\\n\\tmargin-right: 30px;\\n}\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://restaurant-page/./src/style.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -120,6 +120,16 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
 
 /***/ }),
 
+/***/ "./src/drinks.js":
+/*!***********************!*\
+  !*** ./src/drinks.js ***!
+  \***********************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _images_Cham_E_Seul_jpeg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./images/Cham-E-Seul.jpeg */ \"./src/images/Cham-E-Seul.jpeg\");\n/* harmony import */ var _images_chumchurum_jpeg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./images/chumchurum.jpeg */ \"./src/images/chumchurum.jpeg\");\n/* harmony import */ var _images_makkoli_jpeg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./images/makkoli.jpeg */ \"./src/images/makkoli.jpeg\");\n/* harmony import */ var _images_hite_jpeg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./images/hite.jpeg */ \"./src/images/hite.jpeg\");\n/* harmony import */ var _images_OB_jpeg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./images/OB.jpeg */ \"./src/images/OB.jpeg\");\n\n\n\n\n\n\nconst drinks = () => {\n\tconst content = document.createElement(\"div\");\n\tcontent.classList.add(\"content\");\n\n\tcontent.innerHTML = `\n    <h3>Drink Menu</h3>\n    \n    <h4>Soju & Rice Wine</h4>\n    <ul>\n        <li> <img src=\"${_images_Cham_E_Seul_jpeg__WEBPACK_IMPORTED_MODULE_0__}\" alt=\"chamiseul\" class=\"menu-img\" /><strong>Cham-E-Seul</strong>: soju</li>\n        <li> <img src=\"${_images_chumchurum_jpeg__WEBPACK_IMPORTED_MODULE_1__}\" alt=\"chumchurum\" class=\"menu-img\" /><strong>Chumchurum</strong>: soju</li>\n        <li><img src=\"${_images_makkoli_jpeg__WEBPACK_IMPORTED_MODULE_2__}\" alt=\"makkoli\" class=\"menu-img\" /><strong>Makkoli</strong>: unfiltered rice wine</li>\n    </ul>\n    <h4>Beer</h4>\n    <ul>\n        <li><img src=\"${_images_hite_jpeg__WEBPACK_IMPORTED_MODULE_3__}\" alt=\"stew\" class=\"menu-img\" /><strong>Hite</strong>: lager</li>\n        <li><img src=\"${_images_OB_jpeg__WEBPACK_IMPORTED_MODULE_4__}\" alt=\"stew\" class=\"menu-img\" /><strong>OB</strong>: pale lager</li>\n    </ul>`;\n\n\treturn content;\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (drinks);\n\n\n//# sourceURL=webpack://restaurant-page/./src/drinks.js?");
+
+/***/ }),
+
 /***/ "./src/home-page.js":
 /*!**************************!*\
   !*** ./src/home-page.js ***!
@@ -136,7 +146,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n/* harmony import */ var _korean_bbq_banner_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./korean-bbq-banner.jpg */ \"./src/korean-bbq-banner.jpg\");\n/* harmony import */ var _home_page_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./home-page.js */ \"./src/home-page.js\");\n/* harmony import */ var _page_load_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./page-load.js */ \"./src/page-load.js\");\n/* harmony import */ var _menu_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./menu.js */ \"./src/menu.js\");\n\n\n\n\n\n\n\n\nconsole.log(\"It's alive!!!\");\n\n// Write event listeners for tabs here\n// pageLoad(homePage());\n(0,_page_load_js__WEBPACK_IMPORTED_MODULE_3__[\"default\"])((0,_menu_js__WEBPACK_IMPORTED_MODULE_4__[\"default\"])());\n\n\n//# sourceURL=webpack://restaurant-page/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n/* harmony import */ var _korean_bbq_banner_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./korean-bbq-banner.jpg */ \"./src/korean-bbq-banner.jpg\");\n/* harmony import */ var _home_page_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./home-page.js */ \"./src/home-page.js\");\n/* harmony import */ var _page_load_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./page-load.js */ \"./src/page-load.js\");\n/* harmony import */ var _menu_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./menu.js */ \"./src/menu.js\");\n/* harmony import */ var _drinks__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./drinks */ \"./src/drinks.js\");\n\n\n\n\n\n\n\n\n\nconsole.log(\"It's alive!!!\");\n\n// Write event listeners for tabs here\n// pageLoad(homePage());\n// pageLoad(menu());\n(0,_page_load_js__WEBPACK_IMPORTED_MODULE_3__[\"default\"])((0,_drinks__WEBPACK_IMPORTED_MODULE_5__[\"default\"])());\n\n\n//# sourceURL=webpack://restaurant-page/./src/index.js?");
 
 /***/ }),
 
@@ -146,7 +156,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
   \*********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _images_bulgogi_jpeg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./images/bulgogi.jpeg */ \"./src/images/bulgogi.jpeg\");\n/* harmony import */ var _images_galbi_jpeg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./images/galbi.jpeg */ \"./src/images/galbi.jpeg\");\n/* harmony import */ var _images_dwaejigogi_jpeg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./images/dwaejigogi.jpeg */ \"./src/images/dwaejigogi.jpeg\");\n/* harmony import */ var _images_dwaengjang_jigae_jpeg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./images/dwaengjang-jigae.jpeg */ \"./src/images/dwaengjang-jigae.jpeg\");\n/* harmony import */ var _images_kimchi_jigae_jpeg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./images/kimchi-jigae.jpeg */ \"./src/images/kimchi-jigae.jpeg\");\n/* harmony import */ var _images_soondubu_jiggae_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./images/soondubu-jiggae.jpg */ \"./src/images/soondubu-jiggae.jpg\");\n// importing images\n\n\n\n\n\n\n\nconst menu = () => {\n\t/* <div class=\"content\">\n\t\t\t\t<h3>Menu</h3>\n\t\t\t\t<p>* All orders come with a variety of side dishes/ panchan</p>\n\t\t\t\t<h4>Gogi/ Meats</h4>\n\t\t\t\t<ul>\n\t\t\t\t\t<li><img src=\"/src/images/bulgogi.jpeg\" alt=\"bulgogi\" /> Bulgogi</li>\n\t\t\t\t\t<li>Kalbi</li>\n\t\t\t\t\t<li>Twaejigogi</li>\n\t\t\t\t</ul>\n\t\t\t\t<h4>Jigae/ Stews</h4>\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Dwaengjang Jigae</li>\n\t\t\t\t\t<li>Kimchi Jigae</li>\n\t\t\t\t\t<li>Soondubu Jigae</li>\n\t\t\t\t</ul>\n\t\t\t</div> */\n\tconst content = document.createElement(\"div\");\n\tcontent.classList.add(\"content\");\n\n\tcontent.innerHTML = `\n    <h3>Menu</h3>\n    <p>* All orders come with a variety of side dishes/ panchan</p>\n    <h4>Gogi/ Meats</h4>\n    <ul>\n        <li> <img src=\"${_images_bulgogi_jpeg__WEBPACK_IMPORTED_MODULE_0__}\" alt=\"bulgogi\" class=\"menu-img\" />Bulgogi</li>\n        <li> <img src=\"${_images_galbi_jpeg__WEBPACK_IMPORTED_MODULE_1__}\" alt=\"galbi\" class=\"menu-img\" />Galbi</li>\n        <li><img src=\"${_images_dwaejigogi_jpeg__WEBPACK_IMPORTED_MODULE_2__}\" alt=\"dwaejigogi\" class=\"menu-img\" />Dwaejigogi</li>\n    </ul>\n    <h4>Jigae/ Stews</h4>\n    <ul>\n        <li><img src=\"${_images_dwaengjang_jigae_jpeg__WEBPACK_IMPORTED_MODULE_3__}\" alt=\"stew\" class=\"menu-img\" />Dwaengjang Jigae</li>\n        <li><img src=\"${_images_kimchi_jigae_jpeg__WEBPACK_IMPORTED_MODULE_4__}\" alt=\"stew\" class=\"menu-img\" />Kimchi Jigae</li>\n        <li><img src=\"${_images_soondubu_jiggae_jpg__WEBPACK_IMPORTED_MODULE_5__}\" alt=\"stew\" class=\"menu-img\" />Soondubu Jigae</li>\n    </ul>`;\n\n\treturn content;\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (menu);\n\n\n//# sourceURL=webpack://restaurant-page/./src/menu.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _images_bulgogi_jpeg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./images/bulgogi.jpeg */ \"./src/images/bulgogi.jpeg\");\n/* harmony import */ var _images_galbi_jpeg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./images/galbi.jpeg */ \"./src/images/galbi.jpeg\");\n/* harmony import */ var _images_dwaejigogi_jpeg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./images/dwaejigogi.jpeg */ \"./src/images/dwaejigogi.jpeg\");\n/* harmony import */ var _images_dwaengjang_jigae_jpeg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./images/dwaengjang-jigae.jpeg */ \"./src/images/dwaengjang-jigae.jpeg\");\n/* harmony import */ var _images_kimchi_jigae_jpeg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./images/kimchi-jigae.jpeg */ \"./src/images/kimchi-jigae.jpeg\");\n/* harmony import */ var _images_soondubu_jiggae_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./images/soondubu-jiggae.jpg */ \"./src/images/soondubu-jiggae.jpg\");\n// importing images\n\n\n\n\n\n\n\nconst menu = () => {\n\tconst content = document.createElement(\"div\");\n\tcontent.classList.add(\"content\");\n\n\tcontent.innerHTML = `\n    <h3>Menu</h3>\n    <p>* All orders come with a variety of side dishes/ panchan</p>\n    <h4>Gogi/ Meats</h4>\n    <ul>\n        <li> <img src=\"${_images_bulgogi_jpeg__WEBPACK_IMPORTED_MODULE_0__}\" alt=\"bulgogi\" class=\"menu-img\" /><strong>Bulgogi</strong>: marinated beef</li>\n        <li> <img src=\"${_images_galbi_jpeg__WEBPACK_IMPORTED_MODULE_1__}\" alt=\"galbi\" class=\"menu-img\" /><strong>Galbi</strong>: beef short ribs</li>\n        <li><img src=\"${_images_dwaejigogi_jpeg__WEBPACK_IMPORTED_MODULE_2__}\" alt=\"dwaejigogi\" class=\"menu-img\" /><strong>Dwaejigogi</strong>: marinated pork</li>\n    </ul>\n    <h4>Jigae/ Stews</h4>\n    <ul>\n        <li><img src=\"${_images_dwaengjang_jigae_jpeg__WEBPACK_IMPORTED_MODULE_3__}\" alt=\"stew\" class=\"menu-img\" /><strong>Dwaengjang Jigae</strong>: fermented soybean stew</li>\n        <li><img src=\"${_images_kimchi_jigae_jpeg__WEBPACK_IMPORTED_MODULE_4__}\" alt=\"stew\" class=\"menu-img\" /><strong>Kimchi Jigae</strong>: kimchi stew</li>\n        <li><img src=\"${_images_soondubu_jiggae_jpg__WEBPACK_IMPORTED_MODULE_5__}\" alt=\"stew\" class=\"menu-img\" /><strong>Soondubu Jigae</strong>: spicey tofu stew</li>\n    </ul>`;\n\n\treturn content;\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (menu);\n\n\n//# sourceURL=webpack://restaurant-page/./src/menu.js?");
 
 /***/ }),
 
@@ -160,6 +170,26 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
+/***/ "./src/images/Cham-E-Seul.jpeg":
+/*!*************************************!*\
+  !*** ./src/images/Cham-E-Seul.jpeg ***!
+  \*************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"805bbe96e2ef19fecedb.jpeg\";\n\n//# sourceURL=webpack://restaurant-page/./src/images/Cham-E-Seul.jpeg?");
+
+/***/ }),
+
+/***/ "./src/images/OB.jpeg":
+/*!****************************!*\
+  !*** ./src/images/OB.jpeg ***!
+  \****************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"a7807f72e81582c54e64.jpeg\";\n\n//# sourceURL=webpack://restaurant-page/./src/images/OB.jpeg?");
+
+/***/ }),
+
 /***/ "./src/images/bulgogi.jpeg":
 /*!*********************************!*\
   !*** ./src/images/bulgogi.jpeg ***!
@@ -167,6 +197,16 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("module.exports = __webpack_require__.p + \"15a977aeb895f7e75b06.jpeg\";\n\n//# sourceURL=webpack://restaurant-page/./src/images/bulgogi.jpeg?");
+
+/***/ }),
+
+/***/ "./src/images/chumchurum.jpeg":
+/*!************************************!*\
+  !*** ./src/images/chumchurum.jpeg ***!
+  \************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"56c66652d68e94037dc2.jpeg\";\n\n//# sourceURL=webpack://restaurant-page/./src/images/chumchurum.jpeg?");
 
 /***/ }),
 
@@ -200,6 +240,16 @@ eval("module.exports = __webpack_require__.p + \"c25d58ad64f1392ceed7.jpeg\";\n\
 
 /***/ }),
 
+/***/ "./src/images/hite.jpeg":
+/*!******************************!*\
+  !*** ./src/images/hite.jpeg ***!
+  \******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"1ff1b13b0aee4b8e8544.jpeg\";\n\n//# sourceURL=webpack://restaurant-page/./src/images/hite.jpeg?");
+
+/***/ }),
+
 /***/ "./src/images/kimchi-jigae.jpeg":
 /*!**************************************!*\
   !*** ./src/images/kimchi-jigae.jpeg ***!
@@ -207,6 +257,16 @@ eval("module.exports = __webpack_require__.p + \"c25d58ad64f1392ceed7.jpeg\";\n\
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("module.exports = __webpack_require__.p + \"3fe5fe4c0076730b2bc5.jpeg\";\n\n//# sourceURL=webpack://restaurant-page/./src/images/kimchi-jigae.jpeg?");
+
+/***/ }),
+
+/***/ "./src/images/makkoli.jpeg":
+/*!*********************************!*\
+  !*** ./src/images/makkoli.jpeg ***!
+  \*********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"0509d239b059a2f3208f.jpeg\";\n\n//# sourceURL=webpack://restaurant-page/./src/images/makkoli.jpeg?");
 
 /***/ }),
 
