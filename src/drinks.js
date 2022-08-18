@@ -11,7 +11,7 @@ const drinks = () => {
 	content.innerHTML = `
     <h3>Drink Menu</h3>
     
-    <h4>Soju & Rice Wine</h4>
+    <h4 class="drink-menu">Soju & Rice Wine</h4>
     <ul>
         <li> <img src="${Chamiseul}" alt="chamiseul" class="menu-img" /><strong>Cham-E-Seul</strong>: soju</li>
         <li> <img src="${Chumchurum}" alt="chumchurum" class="menu-img" /><strong>Chumchurum</strong>: soju</li>
