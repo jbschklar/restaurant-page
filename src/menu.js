@@ -7,22 +7,6 @@ import Kimchijigae from "./images/kimchi-jigae.jpeg";
 import Soondubujigae from "./images/soondubu-jiggae.jpg";
 
 const menu = () => {
-	/* <div class="content">
-				<h3>Menu</h3>
-				<p>* All orders come with a variety of side dishes/ panchan</p>
-				<h4>Gogi/ Meats</h4>
-				<ul>
-					<li><img src="/src/images/bulgogi.jpeg" alt="bulgogi" /> Bulgogi</li>
-					<li>Kalbi</li>
-					<li>Twaejigogi</li>
-				</ul>
-				<h4>Jigae/ Stews</h4>
-				<ul>
-					<li>Dwaengjang Jigae</li>
-					<li>Kimchi Jigae</li>
-					<li>Soondubu Jigae</li>
-				</ul>
-			</div> */
 	const content = document.createElement("div");
 	content.classList.add("content");
 
@@ -31,15 +15,15 @@ const menu = () => {
     <p>* All orders come with a variety of side dishes/ panchan</p>
     <h4>Gogi/ Meats</h4>
     <ul>
-        <li> <img src="${Bulgogi}" alt="bulgogi" class="menu-img" />Bulgogi</li>
-        <li> <img src="${Galbi}" alt="galbi" class="menu-img" />Galbi</li>
-        <li><img src="${Dwaejigogi}" alt="dwaejigogi" class="menu-img" />Dwaejigogi</li>
+        <li> <img src="${Bulgogi}" alt="bulgogi" class="menu-img" /><strong>Bulgogi</strong>: marinated beef</li>
+        <li> <img src="${Galbi}" alt="galbi" class="menu-img" /><strong>Galbi</strong>: beef short ribs</li>
+        <li><img src="${Dwaejigogi}" alt="dwaejigogi" class="menu-img" /><strong>Dwaejigogi</strong>: marinated pork</li>
     </ul>
     <h4>Jigae/ Stews</h4>
     <ul>
-        <li><img src="${Dwaengjangjigae}" alt="stew" class="menu-img" />Dwaengjang Jigae</li>
-        <li><img src="${Kimchijigae}" alt="stew" class="menu-img" />Kimchi Jigae</li>
-        <li><img src="${Soondubujigae}" alt="stew" class="menu-img" />Soondubu Jigae</li>
+        <li><img src="${Dwaengjangjigae}" alt="stew" class="menu-img" /><strong>Dwaengjang Jigae</strong>: fermented soybean stew</li>
+        <li><img src="${Kimchijigae}" alt="stew" class="menu-img" /><strong>Kimchi Jigae</strong>: kimchi stew</li>
+        <li><img src="${Soondubujigae}" alt="stew" class="menu-img" /><strong>Soondubu Jigae</strong>: spicey tofu stew</li>
     </ul>`;
 
 	return content;
