@@ -23,6 +23,10 @@ header {
 	list-style: none;
 }
 
+.tabs li {
+	cursor: pointer;
+}
+
 body {
 	background: url("./korean-bbq-banner.jpg");
 	background-size: cover;
